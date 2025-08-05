@@ -69,8 +69,8 @@ This project is open-source. Feel free to use it as a template for your own proj
 ## Credits
 
 - Icons by [Font Awesome](https://fontawesome.com)
-- Design by [Your Name/Company]
+- Design by Wahaj
 
 ## Contact
 
-For questions or support, please contact [your email address].
+For questions or support, please contact ahmedwahaj317@gmail.com
